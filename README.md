@@ -1,1 +1,1 @@
-# quiz
+# javascriptでquiz.app
