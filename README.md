@@ -1,1 +1,1 @@
-## javascriptでquizアプリ作ってみた
+## Vanilla Javascriptでquizアプリ作ってみた
